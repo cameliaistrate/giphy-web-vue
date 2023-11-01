@@ -1,6 +1,7 @@
 # giphy-web
 
-This template should help get you started developing with Vue 3 in Vite.
+Search for gifs with this small project scaffolded by running `npm create vue@latest`. Runs on Vue3 + Vite and includes Typescript support. 
+`.env` file is not "gitignored" so you can get the demo running in no time :) 
 
 ## Recommended IDE Setup
 
